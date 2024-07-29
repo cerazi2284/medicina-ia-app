@@ -1,0 +1,1 @@
+Este diretório contém os serviços de inteligência artificial para análise de imagens e dados laboratoriais.
